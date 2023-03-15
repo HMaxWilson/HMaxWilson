@@ -4,7 +4,6 @@
 * 🌍  Location: Bournemouth, United Kingdom
 * 🖥️  Portfolio: <a href="https://HMaxWilson.dev" target="_blank">HMaxWilson.dev</a>
 * 🧠  Learning: Vue3
-* 🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
 
