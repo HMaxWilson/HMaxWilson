@@ -1,5 +1,3 @@
-### Hi there, My name is Harrison Max-Wilson!
-
 ### Professional Full-Stack developer.
 --------------------------
 
