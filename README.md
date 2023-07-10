@@ -3,7 +3,7 @@
 
 * 🌍  Location: Bournemouth, United Kingdom
 * 🖥️  Portfolio: <a href="https://HMaxWilson.dev" target="_blank">HMaxWilson.dev</a>
-* 🧠  Learning: NuxtJS
+* 🧠  Learning: React
 
 ### Skills
 
