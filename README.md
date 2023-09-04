@@ -1,7 +1,7 @@
 ### Professional Full-Stack developer.
 --------------------------
 
-* 🌍  Location: United Kindom Inland Waterways
+* 🌍  Location: UK Canals & Inland Waterways
 * 🖥️  Website: <a href="https://HMaxWilson.dev" target="_blank">HMaxWilson.dev</a>
 * 🧠  Learning: React
 
