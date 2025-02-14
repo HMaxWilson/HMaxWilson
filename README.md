@@ -3,7 +3,6 @@
 
 * 🌍  Location: Bournemouth
 * 🖥️  Website: <a href="https://HMaxWilson.dev" target="_blank">HMaxWilson.dev</a>
-* 🧠  Learning: React
 
 ### Skills
 
